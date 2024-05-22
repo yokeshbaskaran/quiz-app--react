@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "question": "Who won the IPL 2023 cup",
+    "options": ["MI", "RR", "CSK", "DC"],
+    "correctOption": "CSK"
+  },
+  {
+    "id": 2,
+    "question": "What is the captial of tamilnadu",
+    "options": ["DPI", "CHE", "CBE", "MAD"],
+    "correctOption": "CHE"
+  },
+  {
+    "id": 3,
+    "question": "Who won the FIFA 2022 cup",
+    "options": ["POR", "ARG", "FRA", "CHI"],
+    "correctOption": "ARG"
+  },
+  {
+    "id": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correctOption": "Mars"
+  },
+  {
+    "id": 5,
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "J.K. Rowling",
+      "Stephen King",
+      "George R.R. Martin",
+      "J.R.R. Tolkien"
+    ],
+    "correctOption": "J.K. Rowling"
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "correctOption": "H2O"
+  }
+]
